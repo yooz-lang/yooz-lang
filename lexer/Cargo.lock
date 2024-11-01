@@ -5,7 +5,3 @@ version = 3
 [[package]]
 name = "lexer"
 version = "0.1.0"
-
-[[package]]
-name = "yooz-lang"
-version = "0.1.0"

@@ -1,6 +1,14 @@
 [package]
-name = "yooz"
+name = "yooz-lang"
 version = "0.1.0"
 edition = "2021"
+resolver = "2"
 
-[dependencies]
+[workspace]
+members = ["lexer"]
+
+[[bin]]
+name = "yooz"
+path = "./interpreter/main.rs"
+
+
