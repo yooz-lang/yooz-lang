@@ -1,14 +1,10 @@
 # What is Yooz?
 
-A powerful, developer-friendly **runtime environment** that accelerates **data science** and **AI innovation**.
-By providing a rich language foundation, specialized data structures, and built-in tools,
-it empowers developers to build highly performant applications with ease.
+A powerful, developer-friendly domain-specific language (DSL) designed to efficiently structure, analyze, and transform data. Its intuitive syntax and built-in tools enable developers to extract valuable insights from complex datasets.
 
 Key features include :
 
 - Enhanced Data Handling: Effortlessly handle complex data structures and perform advanced data analysis.
-
-- Customizable Language Foundation: Tailor the language to your specific needs, unlocking new possibilities for data-driven applications.
 
 - Regex Support: Efficiently manipulate text data using regular expressions.
 
@@ -60,7 +56,6 @@ We warmly welcome your contributions to this open-source project. Your insights,
 4. Push Your Branch: Push your branch to your forked repository.
 
 5. Create a Pull Request: Submit a pull request to the main repository.
-
 
 **We appreciate all contributions, no matter how small.**
 
